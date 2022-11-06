@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\bin\Debug\netcoreapp3.1\FirstAppP515.exe
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\bin\Debug\netcoreapp3.1\FirstAppP515.deps.json
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\bin\Debug\netcoreapp3.1\FirstAppP515.runtimeconfig.json
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\bin\Debug\netcoreapp3.1\FirstAppP515.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\bin\Debug\netcoreapp3.1\FirstAppP515.dll
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\bin\Debug\netcoreapp3.1\FirstAppP515.pdb
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\obj\Debug\netcoreapp3.1\FirstAppP515.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\obj\Debug\netcoreapp3.1\FirstAppP515.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\obj\Debug\netcoreapp3.1\FirstAppP515.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\obj\Debug\netcoreapp3.1\FirstAppP515.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\obj\Debug\netcoreapp3.1\FirstAppP515.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\obj\Debug\netcoreapp3.1\FirstAppP515.dll
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\obj\Debug\netcoreapp3.1\FirstAppP515.pdb
+C:\Users\Lenovo\Desktop\FirstAppP515\FirstAppP515\obj\Debug\netcoreapp3.1\FirstAppP515.genruntimeconfig.cache
